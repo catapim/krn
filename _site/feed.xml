@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-16T20:00:29-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Apples</title><link href="http://localhost:4000/2018/08/20/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-20T00:00:00-03:00</published><updated>2018-08-20T00:00:00-03:00</updated><id>http://localhost:4000/2018/08/20/apples</id><content type="html" xml:base="http://localhost:4000/2018/08/20/apples.html">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-07-16T21:25:24-04:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Get started with serverless</title><link href="http://localhost:4000/2020/07/16/serverless.html" rel="alternate" type="text/html" title="Get started with serverless" /><published>2020-07-16T00:00:00-04:00</published><updated>2020-07-16T00:00:00-04:00</updated><id>http://localhost:4000/2020/07/16/serverless</id><content type="html" xml:base="http://localhost:4000/2020/07/16/serverless.html">&lt;p&gt;Get your environment ready to develop and deploy Serverless apps in AWS.&lt;/p&gt;
+
+&lt;p&gt;It’s very important to understand that Serverless is used as a concept and as a Framework.&lt;/p&gt;
+
+&lt;p&gt;Learn the differences here:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://martinfowler.com/articles/serverless.html&quot;&gt;Serverless architectures by Martin Fowler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.serverless.com&quot;&gt;Framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are taking your fists steps in develop, test and deploy a serverless application in AWS, remember this checklist.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Is the project in Python or JavaScript?&lt;/li&gt;
+  &lt;li&gt;Install the required language. Visit the page of your OS:&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org&quot;&gt;Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.org/&quot;&gt;Node&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wether your project is Python or Node, you will need NPM.  It’s distributed with Node.&lt;/p&gt;
+
+&lt;p&gt;Pick a friendly IDE! My favourite is &lt;a href=&quot;https://code.visualstudio.com/&quot;&gt;VS Code&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You’ll need:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html&quot;&gt;AWS Credentials&lt;/a&gt; (access key id and secret access key)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html&quot;&gt;AWS CLI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html&quot;&gt;setup your AWS CLI&lt;/a&gt; (this allows you to deploy from yor local machine to the cloud)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.serverless.com/framework/docs/providers/aws/guide/installation/&quot;&gt;Install Serverless&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-to-do-next&quot;&gt;What to do next&lt;/h2&gt;
+
+&lt;p&gt;Serverless is strongly related to Lambda! An AWS service that let’s you do very cool stuff.&lt;/p&gt;
+
+&lt;p&gt;This little step by step will help you to write, deploy and test your first function:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;TBD&lt;/em&gt;&lt;/p&gt;</content><author><name>cata</name></author><summary type="html">Get your environment ready to develop and deploy Serverless apps in AWS.</summary></entry><entry><title type="html">Apples</title><link href="http://localhost:4000/2018/08/20/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-20T00:00:00-03:00</published><updated>2018-08-20T00:00:00-03:00</updated><id>http://localhost:4000/2018/08/20/apples</id><content type="html" xml:base="http://localhost:4000/2018/08/20/apples.html">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
 
 &lt;p&gt;Apple trees are cultivated worldwide, and are the most widely grown species in
 the genus Malus. The tree originated in Central Asia, where its wild ancestor,
